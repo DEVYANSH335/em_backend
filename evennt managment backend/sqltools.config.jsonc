@@ -1,0 +1,18 @@
+{
+    "mysqlOptions": {
+      "authProtocol": "xprotocol",
+      "enableSsl": "Disabled"
+    },
+    "previewLimit": 50,
+    "server": "localhost",
+    "port": 33060,
+    "driver": "MySQL",
+    "name": "MySQL local",
+    "database": "event",
+    "username": "root",
+    "password": "root",
+    "connectionTimeout": 30,
+    "connectionMethod": "Server and Port",
+    "usePassword": "Save as plaintext in settings"
+  }
+  
