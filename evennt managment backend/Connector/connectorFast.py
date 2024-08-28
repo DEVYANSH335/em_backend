@@ -1,8 +1,5 @@
 from flask import Flask, jsonify, request, send_file
 from flask_cors import CORS
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 from sqlalchemy import create_engine
 import io
 import logging
